@@ -1137,4 +1137,89 @@
   padding-bottom: 16px;
   margin-bottom: 24px;
   width: 700px;
+}
+
+.credit-calculator {
+  padding: 48px 0 48px 0;
+}
+.credit-calculator .credit-container {
+  margin: 24px 130px 24px 130px;
+  padding: 48px 15px 48px 15px;
+}
+.credit-calculator .credit-container .row-calc {
+  margin: 0 -15px 0 -15px;
+}
+.credit-calculator .credit-container .row-calc .calculator {
+  margin: 0 105px 0 105px;
+  padding: 0 15px 0 15px;
+}
+
+.calculator h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 36px;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+}
+
+input[type=range] {
+  width: 100%;
+  position: absolute;
+}
+
+#results .ay-label {
+  margin-top: 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d3d3d3;
+  color: #3b3b3b;
+}
+
+#results div {
+  margin-bottom: 10px;
+}
+#results button {
+  padding: 15px 30px 15px 30px;
+  margin-top: 20px;
+  background-color: #0056c1;
+  color: #fff;
+  border: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 150px;
+}
+#results button:hover {
+  background-color: #004fb0;
+  color: #d9d9d9;
+}
+
+.range-slider {
+  border: 1px solid #2b2b2b;
+  border-radius: 5px;
+  border-color: #d5d5d5;
+  padding: 20px 15px 20px 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.ayliq-odeme span {
+  font-size: 36px;
+  font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#monthly-payment {
+  color: #3b3b3b;
+}
+
+#total-payment {
+  color: #3b3b3b;
 }/*# sourceMappingURL=style2.css.map */
